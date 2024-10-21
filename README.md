@@ -27,4 +27,4 @@ Sou estudante de programação e apaixonado por tecnologia, com foco em desenvol
 - **Tecnologias de Estilização**: Sass, Tailwind CSS
 - **Controle de Versão**: Git (incluindo commits)
 - **Ferramentas**: Vite, Cordova
-- **Banco de Dados**: SQL, MariaDB
+- **Banco de Dados**: MySQL
