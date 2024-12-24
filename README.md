@@ -1,5 +1,5 @@
 # Olá, eu sou o Moisés Elias! 👋
-Sou desenvolvedor web com experiência em React, Sass e Tailwind CSS, especializado na criação de interfaces modernas e responsivas. Atualmente, estou expandindo minhas habilidades no back-end, estudando Laravel e Express, além de aprimorar meus conhecimentos em testes com Playwright e PHPUnit.
+Sou **desenvolvedor web com experiência em React, Sass e Tailwind CSS**, especializado na criação de interfaces modernas e responsivas. Atualmente, estou expandindo minhas habilidades no back-end, estudando Laravel e Express, além de aprimorar meus conhecimentos em testes com Playwright e PHPUnit.
 
 
 ## Habilidades
