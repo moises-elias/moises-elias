@@ -10,6 +10,7 @@ Sou ***desenvolvedor web*** com experiência em React, Sass e Tailwind CSS, apai
   - **Back-End**: Express, Laravel
 - **🎨 Tecnologias de Estilização**: Sass, Tailwind CSS, Bootstrap
 - **🔄 Controle de Versão**: Git (incluindo commits)
+- **✅ Testes**: Playwright, PHPUnit
 - **🗄️ Banco de Dados**: MySQL, PostgreSQL
   
 ## Projetos
