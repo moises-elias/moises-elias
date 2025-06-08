@@ -18,7 +18,7 @@ Sou **desenvolvedor web com experiência em React, Sass e Tailwind CSS**, especi
 
 ### 💻 Projetos em Destaque
 - **[Receitas Mineiras 🍽](https://receitas-mineiras.vercel.app/)**: Um site de receitas feito em React que permite explorar diferentes pratos e compartilhar receitas.  
-  **[Demonstração](https://receitas-mineiras.vercel.app/)** | **[Código](https://github.com/moises-elias/Receitas-Mineiras-React)**
+  **[Demonstração](https://receitas-mineiras.vercel.app/)** | **[Código](https://github.com/moises-elias/Receitas-Mineiras)**
   
 - **[Top d+ 🤵](https://topdemais.vercel.app)**: Uma loja de moda masculina que oferece uma seleção cuidadosamente escolhida de roupas e acessórios para homens que valorizam estilo e qualidade.  
   **[Demonstração](https://topdemais.vercel.app)** | **[Código](https://github.com/moises-elias/TopDeMais)**
